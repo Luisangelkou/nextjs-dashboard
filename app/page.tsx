@@ -5,7 +5,7 @@ import styles from '@/app/ui/home.module.css';
 import Image from 'next/image';
 
 <div className={styles.shape} />;
- 
+
  export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
